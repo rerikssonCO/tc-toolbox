@@ -12,7 +12,7 @@ A Streamlit-based multi-page utility for:
 
 1. **Historical Export**
 
-   * Connects to the CatalystOne Mono API.
+   * Connects to the CatalystOne API.
    * Select domain, client credentials, output folder, and history start date.
    * Choose identifier field (Profile ID, Employee ID, or E-mail) and select custom fields to export.
    * Generates CSVs (semicolon-delimited) with timeline history and optional `Valid To` filtering.
