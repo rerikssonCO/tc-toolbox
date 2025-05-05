@@ -1,4 +1,4 @@
-# Technical Consulting Tool-Box
+# Technical Consulting Toolbox
 
 A Streamlit-based multi-page utility for:
 
